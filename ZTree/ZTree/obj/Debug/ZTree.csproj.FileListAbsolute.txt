@@ -1,0 +1,6 @@
+C:\Users\Mr\Desktop\ZTree\ZTree\bin\ZTree.dll.config
+C:\Users\Mr\Desktop\ZTree\ZTree\bin\ZTree.dll
+C:\Users\Mr\Desktop\ZTree\ZTree\bin\ZTree.pdb
+C:\Users\Mr\Desktop\ZTree\ZTree\obj\Debug\ZTree.csprojResolveAssemblyReference.cache
+C:\Users\Mr\Desktop\ZTree\ZTree\obj\Debug\ZTree.dll
+C:\Users\Mr\Desktop\ZTree\ZTree\obj\Debug\ZTree.pdb
